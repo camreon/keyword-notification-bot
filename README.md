@@ -15,3 +15,4 @@ Navigate to this URL in a browser, but replace {CLIENT_ID} with the real app's c
 - Logging
 - Use a database instead of tracking notification subscriptions in memory
 - Confirm permissions are correct
+- Command to list current keywords
