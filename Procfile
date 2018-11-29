@@ -1,1 +1,1 @@
-web: python keyword_notification_bot.py
+worker: python keyword_notification_bot.py
